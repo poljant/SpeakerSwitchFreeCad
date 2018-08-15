@@ -1,0 +1,2 @@
+# SpeakerSwitchFreeCad
+PCB Speaker Switch
